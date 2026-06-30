@@ -1,0 +1,18 @@
+[project]
+name = "practical-python-for-biologists"
+version = "0.1.0"
+description = "Practical Python Programming for Biologists course"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "biopython>=1.84",
+    "ipykernel>=6.29",
+    "jupyterlab>=4.3",
+    "matplotlib>=3.9",
+    "numpy>=2.1",
+    "opencv-python-headless>=4.10",
+    "pandas>=2.2",
+    "plotly>=5.24",
+    "scipy>=1.14",
+    "seaborn>=0.13",
+]
